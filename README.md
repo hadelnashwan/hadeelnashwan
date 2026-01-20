@@ -1,6 +1,4 @@
-<div align="center" style="background-color: white; padding: 20px;">
-  <img src="https://raw.githubusercontent.com/HadeelNashwan/yourrepo/main/HADEEL_NASHWAN.png" width="250" alt="Hadeel Nashwan">
-</div>
+
 # Hi 👋 I'm Hadeel Nashwan  
 
 🎓 Computer Science student at university  
