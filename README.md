@@ -1,44 +1,10 @@
+<img src="PUT_YOUR_BANNER_IMAGE_LINK_HERE" />
 
-# Hi 👋 I'm Hadeel Nashwan  
+## Hi 👋 I'm Hadeel Nashwan
 
-🎓 Computer Science student at university  
-💻 Aspiring Frontend Web Developer  
-📚 Learning programming step by step with a strong foundation  
+🎓 Computer Science student | 💻 Aspiring Frontend Web Developer
 
----
-
-### 👩‍💻 About Me
-- 🎓 Studying **Computer Science**
-- 🧠 Currently focusing on **Programming Fundamentals & OOP**
-- 👨‍🏫 Learning through courses with **Dr. Mohammed Abu-Hahod**
-- 🌱 Building my path toward **Frontend Web Development**
-- ✨ Motivated to improve my coding skills every day
-
----
-
-### 🛠️ Tech Stack
-- **Languages:**  
-  - C++  
-  - C# (learning)  
-  - HTML (upcoming)
-
-- **Core Concepts:**  
-  - Programming Fundamentals  
-  - Object-Oriented Programming (OOP)
-
-- **Tools:**  
-  - Git & GitHub  
-  - Visual Studio  
-  - VS Code  
-
----
-
-### 🎯 Learning Goals
-- Master **C++ and C#**
-- Start building websites using **HTML, CSS, JavaScript**
-- Become a professional **Frontend Web Developer**
-- Create real projects and a strong GitHub portfolio 🚀
-
----
-
-✨ *“Learning programming one step at a time.”*
+I am a Computer Science student passionate about learning programming and building a strong foundation in software development.  
+I started my journey with **C++**, currently learning **C#**, and preparing to move into **Frontend Web Development** using **HTML, CSS, and JavaScript**.  
+I am studying and taking courses with **Dr. Mohammed Abu-Hahod**, focusing on clean code, problem-solving, and Object-Oriented Programming.  
+Always motivated to learn, practice, and grow step by step 🚀
